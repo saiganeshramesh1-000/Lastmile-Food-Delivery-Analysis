@@ -29,7 +29,14 @@
 - Correlation analysis revealed a **moderate positive relationship (0.45)** between **kitchen preparation time** and **rider wait time**, indicating that longer preparation times generally lead to increased rider waiting times.
 - The order value is **₹500-₹700**. 
 
+## 📊 Power BI Dashboards
 
+ ### Page 1 — Excutive Summary
+![Excutive Summary](https://github.com/saiganeshramesh1-000/Lastmile-Food-Delivery-Analysis/blob/main/Dashboard/Executive%20Summary.png)
+Achieved a 99.19% delivery success rate across 21,320 orders, generating ₹14.55M in revenue while maintaining an exceptionally low failure rate of just 0.81%.
+### Page 2 — Cancellation Analysis
 
+![Cancellation Analysis](https://github.com/saiganeshramesh1-000/Lastmile-Food-Delivery-Analysis/blob/main/Dashboard/Cancellation%20Analysis.png)
 
+Customer cancellations and platform cancellations were the two major contributors to failed orders.
 
